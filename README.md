@@ -69,8 +69,3 @@ python stress_boundaries.py --digit-sizes 10 --cases-per-size 2000 --batch-size 
 
 `n_digits > 10` is intentionally unsupported by this handwritten weight set.
 
-## Archived prior version
-
-The earlier fixed-transformer implementation is preserved in:
-
-`archived_fixed_transformer_v1/`
